@@ -16,7 +16,7 @@ This repository contains a collection of numerical simulation projects developed
   * Propagation of systematic and random measurement uncertainties.
   * Multivariant statistical analysis evaluating Pearson correlation coefficients across correlated physical observables ($n_1, n_2$ refractive indices and Cauchy parameters $A, B$).
 
-### 3. Differential Equations & Uncertainty Propagation (`RungeKutta_Oscillator.cpp`)
+### 3. Differential Equations & Uncertainty Propagation (`EquazioniDifferenziali.h`)
 * **Objective:** Simulation of a damped harmonic oscillator using 4th-order Runge-Kutta (RK4).
 * **Key Features:**
   * Dynamic step-size optimization based on target numerical precision ($O(h^4)$ error scaling).
