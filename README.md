@@ -3,7 +3,7 @@ This repository contains a collection of numerical simulation projects developed
 
 ## 📌 Projects Overview
 
-### 1. Numerical Integration & Error Analysis (`Integrali.cpp`)
+### 1. Numerical Integration & Error Analysis (`Integrali.h & IntegraliMC.h`)
 * **Objective:** Evaluation of definite integrals using various quadrature methods (Midpoint, Midright) and Monte Carlo sampling.
 * **Key Features:**
   * Convergence rate analysis ($O(h^2)$ fitting in log-log scale).
